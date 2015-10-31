@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/jf-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/samsung/jf-common/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/samsung/jf-common/proprietary/bin/sec-ril:system/bin/sec-ril \
     vendor/samsung/jf-common/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/samsung/jf-common/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/samsung/jf-common/proprietary/lib/libqdp.so:system/lib/libqdp.so \

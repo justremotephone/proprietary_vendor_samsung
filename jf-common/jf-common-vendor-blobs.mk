@@ -195,4 +195,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jf-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/samsung/jf-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/jf-common/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
-    vendor/samsung/jf-common/proprietary/lib/libril.so:system/lib/libril.so
+    vendor/samsung/jf-common/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/samsung/jf-common/proprietary/lib/librilutils.so:system/lib/librilutils.so

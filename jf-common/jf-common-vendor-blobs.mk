@@ -25,7 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jf-common/proprietary/bin/radish:system/bin/radish \
     vendor/samsung/jf-common/proprietary/bin/thermald:system/bin/thermald \
     vendor/samsung/jf-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
-    vendor/samsung/jf-common/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
+    vendor/samsung/jf-common/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/samsung/jf-common/proprietary/lib/libthermalclient.so:system/lib/libthermalclient.so \
     vendor/samsung/jf-common/proprietary/vendor/firmware/bcm4335.hcd:system/vendor/firmware/bcm4335.hcd \
     vendor/samsung/jf-common/proprietary/vendor/firmware/bcm4335_murata.hcd:system/vendor/firmware/bcm4335_murata.hcd \

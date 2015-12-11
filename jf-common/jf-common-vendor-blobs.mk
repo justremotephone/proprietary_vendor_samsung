@@ -184,7 +184,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jf-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/samsung/jf-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/jf-common/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/jf-common/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/samsung/jf-common/proprietary/rild/gsm/lib/libsec-ril.so:system/rild/gsm/lib/libsec-ril.so \
     vendor/samsung/jf-common/proprietary/rild/cdma/lib/libsec-ril.so:system/rild/cdma/lib/libsec-ril.so \
     vendor/samsung/jf-common/proprietary/rild/usc/lib/libsec-ril.so:system/rild/usc/lib/libsec-ril.so \

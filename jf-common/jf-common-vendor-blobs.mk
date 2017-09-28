@@ -169,7 +169,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/rild/gsm/bin/netmgrd:system/bin/netmgrd \
 	vendor/samsung/jf-common/proprietary/rild/gsm/bin/qcks:system/bin/qcks \
 	vendor/samsung/jf-common/proprietary/rild/gsm/bin/qmuxd:system/bin/qmuxd \
-	vendor/samsung/jf-common/proprietary/rild/gsm/bin/rild:system/bin/rild \
+	vendor/samsung/jf-common/proprietary/rild/gsm/bin/rild:system/vendor/bin/hw/rild \
 	vendor/samsung/jf-common/proprietary/rild/gsm/bin/rmt_storage:system/bin/rmt_storage \
 	vendor/samsung/jf-common/proprietary/rild/gsm/lib/libatparser.so:system/lib/libatparser.so \
 	vendor/samsung/jf-common/proprietary/rild/gsm/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
@@ -204,7 +204,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/rild/cdma/bin/netmgrd:system/bin/netmgrd \
 	vendor/samsung/jf-common/proprietary/rild/cdma/bin/qcks:system/bin/qcks \
 	vendor/samsung/jf-common/proprietary/rild/cdma/bin/qmuxd:system/bin/qmuxd \
-	vendor/samsung/jf-common/proprietary/rild/cdma/bin/rild:system/bin/rild \
+	vendor/samsung/jf-common/proprietary/rild/cdma/bin/rild:system/vendor/bin/hw/rild \
 	vendor/samsung/jf-common/proprietary/rild/cdma/bin/rmt_storage:system/bin/rmt_storage \
 	vendor/samsung/jf-common/proprietary/rild/cdma/lib/libatparser.so:system/lib/libatparser.so \
 	vendor/samsung/jf-common/proprietary/rild/cdma/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
@@ -239,7 +239,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/rild/usc/bin/netmgrd:system/bin/netmgrd \
 	vendor/samsung/jf-common/proprietary/rild/usc/bin/qcks:system/bin/qcks \
 	vendor/samsung/jf-common/proprietary/rild/usc/bin/qmuxd:system/bin/qmuxd \
-	vendor/samsung/jf-common/proprietary/rild/usc/bin/rild:system/bin/rild \
+	vendor/samsung/jf-common/proprietary/rild/usc/bin/rild:system/vendor/bin/hw/rild \
 	vendor/samsung/jf-common/proprietary/rild/usc/bin/rmt_storage:system/bin/rmt_storage \
 	vendor/samsung/jf-common/proprietary/rild/usc/lib/libatparser.so:system/lib/libatparser.so \
 	vendor/samsung/jf-common/proprietary/rild/usc/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
@@ -286,7 +286,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/rild/vzw/bin/netmgrd:system/bin/netmgrd \
 	vendor/samsung/jf-common/proprietary/rild/vzw/bin/qcks:system/bin/qcks \
 	vendor/samsung/jf-common/proprietary/rild/vzw/bin/qmuxd:system/bin/qmuxd \
-	vendor/samsung/jf-common/proprietary/rild/vzw/bin/rild:system/bin/rild \
+	vendor/samsung/jf-common/proprietary/rild/vzw/bin/rild:system/vendor/bin/hw/rild \
 	vendor/samsung/jf-common/proprietary/rild/vzw/bin/rmt_storage:system/bin/rmt_storage \
 	vendor/samsung/jf-common/proprietary/rild/vzw/lib/libatparser.so:system/lib/libatparser.so \
 	vendor/samsung/jf-common/proprietary/rild/vzw/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
